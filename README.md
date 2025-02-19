@@ -9,3 +9,5 @@ figures for the research activity within TC-RAMS.  Because
 many of us are still learning julia and python we want to 
 create a library of functions and scripts that have been 
 written to analyse data.  
+
+For examples of the figures that have been created using the scripts in TC2R2, see the TC2R2figures.pdf document.
