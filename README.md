@@ -12,4 +12,3 @@ written to analyse data.
 
 For examples of the figures that have been created using the scripts in TC2R2, see the TC2R2figures.pdf document.
 
-TEST
